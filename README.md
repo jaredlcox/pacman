@@ -1,8 +1,8 @@
-# [Pacman](https://maskeynihal.github.io/pacman/index.html)
+# [Pacman](https://jaredlcox.github.io/pacman/index.html)
 
 ## Description
 
-Player move **Pacman** to eat all the dots escaping from ghosts. You can play the game [here](https://maskeynihal.github.io/pacman/index.html)
+Player move **Pacman** to eat all the dots escaping from ghosts. You can play the game [here](https://jaredlcox.github.io/pacman/index.html)
 
 ## Features
 
